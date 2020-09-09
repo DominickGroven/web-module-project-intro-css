@@ -1,3 +1,14 @@
+@font-face {
+    font-family: chelsea market;
+    src: url(https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap);
+}
+@font-face {
+    font-family: roboto mono;
+    src: url(https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap);
+}
+div{
+    font-family: roboto mono;
+}
 .navbar{
     text-align: center;
     
@@ -36,6 +47,7 @@
 h1{
     text-align: center;
     vertical-align: center;
+    font-family: chelsea market;
 }
 .info{
     background:#DDB9A3;
@@ -60,10 +72,33 @@ h1{
 }
 address{
     background:#F9E7DC;
+    height:150px;
+    width:100%;
+    vertical-align: center;
 }
 .body{
     text-align: center;
     font-size: 30px;
     color: white;
 
+}
+.fire{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.lodging{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+}
+.footer-img{
+    height:300px;
+    width:100%;
+}
+footer{
+    text-align:center;
 }
