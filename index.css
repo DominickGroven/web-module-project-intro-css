@@ -1,0 +1,69 @@
+.navbar{
+    text-align: center;
+    
+}
+
+.plan{
+    background:#FF764E;
+    border-radius: 12px;
+    font-size:40px;
+    text-decoration: none;
+    color:white;
+}
+.learn{
+    background:#5ED3EB;
+    border-radius: 12px;
+    font-size:40px;
+    text-decoration: none;
+    color:white;
+}
+
+.get-involved{
+    background:#ffcd69;
+    border-radius: 12px;
+    font-size: 40px;
+    text-decoration: none;
+    color:white;
+}
+
+.title-img{
+    border-radius: 50%;
+    padding:70px;
+    width:20%;
+    
+    
+}
+h1{
+    text-align: center;
+    vertical-align: center;
+}
+.info{
+    background:#DDB9A3;
+    padding:20px;
+    margin-left: 50px;
+    margin-right:50px;
+    
+}
+.wood{
+    width:10%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rv{
+    width:10%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+address{
+    background:#F9E7DC;
+}
+.body{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+
+}
