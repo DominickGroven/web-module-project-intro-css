@@ -1,0 +1,86 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    padding-left: 15px;
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+    color:white;
+    text-decoration: none;
+}
+
+.plan {
+    background-color: #FF764E;
+}
+
+.learn {
+    background-color: #5ED3EB;
+}
+
+.get-involved{
+    background-color: #FFCD69;
+}
+.intro {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+.intro img {
+    border-radius: 50%;
+    width: 250px;
+}
+
+.intro {
+    margin-left: -50px;
+}
+
+.intro h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 50px;
+}
+
+.intro p:nth-child(3){
+    width: 20em;
+}
+
+.all-facts {
+    display: flex;
+    flex-direction: column;
+}
+
+.all-facts img {
+    width: 15em;
+    margin: 0 auto;
+}
+
+.all-facts p {
+    width: 50vw;
+    margin: 50px auto;
+}
+
+.all-facts > p {
+    padding: 75px;
+    background-color: #DDB9A3;
+    width: 80vw;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #F9E7DC;
+}
+
+.footer-img {
+    height:20em;
+    padding-bottom:5em;
+}
+
+.address{
+    display: flex;
+    justify-content: space-around;
+}
